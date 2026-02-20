@@ -28,7 +28,7 @@ export default function HeroSection({ isMobile }) {
         <div className="absolute inset-0 rounded-xl bg-white/10 blur-2xl opacity-0 group-hover:opacity-100 transition duration-500"></div>
 
         <Image
-          src="/img/t5.png"
+          src="/img/t2.png"
           alt="Bottom Image"
           width={600}
           height={400}
